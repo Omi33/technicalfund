@@ -1,2 +1,3 @@
 # technicalfund
-this is my first technical fund 
+This is my first technical fund.
+Author-omkar sagvekar
